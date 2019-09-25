@@ -111,6 +111,19 @@
       <relatedItems xmi:id="_ahoWKt9rEemX6sbzVaWVxg" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_ahoWK99rEemX6sbzVaWVxg" id="Mathematical" version="Latest" type="routine"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_BTCxUN9sEemX6sbzVaWVxg">
+      <baseItem xmi:id="_BTCxUd9sEemX6sbzVaWVxg" id="_47ZJ4N9rEemX6sbzVaWVxg" version="0.1" type="job"/>
+      <relatedItems xmi:id="_BTCxUt9sEemX6sbzVaWVxg" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BTCxU99sEemX6sbzVaWVxg" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BTCxVN9sEemX6sbzVaWVxg" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BTCxVd9sEemX6sbzVaWVxg" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BTCxVt9sEemX6sbzVaWVxg" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BTCxV99sEemX6sbzVaWVxg" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BTCxWN9sEemX6sbzVaWVxg" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BTCxWd9sEemX6sbzVaWVxg" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BTCxWt9sEemX6sbzVaWVxg" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BTCxW99sEemX6sbzVaWVxg" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_gjZgwN9qEemX6sbzVaWVxg" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_gjZgwd9qEemX6sbzVaWVxg" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_gjZgwt9qEemX6sbzVaWVxg" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
